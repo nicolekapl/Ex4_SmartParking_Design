@@ -14,7 +14,7 @@
 | **Student A (Role A)** | `Nicole Kaplinsky` | `[Enter ID]` | `nicole.kaplinsky@e.braude.ac.il]` |
 | **Student B (Role B)** | `Moshe Ben Shabat` | `[Enter ID]` | `moshe.ben.shabat@e.braude.ac.il]` |
 
-* **Group Number:** `G[XX]`
+* **Group Number:** `G5&G17`
 * **GitHub Repository URL:** `https://github.com/nicolekapl/Ex4_SmartParking_Design`
 
 ---
