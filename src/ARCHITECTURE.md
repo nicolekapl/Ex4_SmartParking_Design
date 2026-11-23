@@ -11,8 +11,8 @@
 
 | Role | Full Name | Student ID | Braude Academic Email |
 | :--- | :--- | :--- | :--- |
-| **Student A (Role A)** | `[Enter Student A Full Name]` | `[Enter ID]` | `[studentA@e.braude.ac.il]` |
-| **Student B (Role B)** | `[Enter Student B Full Name]` | `[Enter ID]` | `[studentB@e.braude.ac.il]` |
+| **Student A (Role A)** | `Nicole Kaplinsky` | `[Enter ID]` | `nicole.kaplinsky@e.braude.ac.il]` |
+| **Student B (Role B)** | `Moshe Ben Shabat` | `[Enter ID]` | `moshe.ben.shabat@e.braude.ac.il]` |
 
 * **Group Number:** `G[XX]`
 * **GitHub Repository URL:** `https://github.com/[Username]/Ex4_SmartParking_Design`
