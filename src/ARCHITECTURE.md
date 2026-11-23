@@ -15,7 +15,7 @@
 | **Student B (Role B)** | `Moshe Ben Shabat` | `[Enter ID]` | `moshe.ben.shabat@e.braude.ac.il]` |
 
 * **Group Number:** `G[XX]`
-* **GitHub Repository URL:** `https://github.com/[Username]/Ex4_SmartParking_Design`
+* **GitHub Repository URL:** `https://github.com/nicolekapl/Ex4_SmartParking_Design`
 
 ---
 
